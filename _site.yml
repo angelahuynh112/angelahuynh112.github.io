@@ -7,8 +7,6 @@ navbar:
       href: index.html
     - text: "Projects"
       href: projects.html
-	- text: "Resume"
-	  href: https://drive.google.com/file/d/1ewSdXR3VidScVfsv9jllCM2WCXiCSr5u/view?usp=sharing
 output:
   html_document:
     theme: flatly
