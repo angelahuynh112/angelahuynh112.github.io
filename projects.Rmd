@@ -1,0 +1,9 @@
+---
+title: "Projects"
+---
+
+Here are some things I've worked on!
+
+### [Happy Money Internship Assessment](file:///Users/angelahuynh/Documents/Jobs:Internships/Summer%202018/Happy%20Money/Huynh_Intern_Assessment.html)
+
+Before getting this internship, I had a preliminary interview and a mini-project to submit. I played around with some financial data and answered other supplemental questions before my big interview. 
