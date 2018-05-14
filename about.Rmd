@@ -1,5 +1,11 @@
 ---
-title: "About Me"
+title:
 ---
 
-Why I am awesome. 
+## About Me:
+
+Hi! My name is Angela Huynh and I’m from San Diego, California. I went to undergrad at the University of California, Santa Barbara and graduated with a B.S. in Statistical Science and a B.A. in Sociology. I'm currently pursuing my masters degree in biostatistics at Vanderbilt University in Nashville, TN. 
+
+I hope to combine my sociological imagination as well as my statistical skills to make an impact through the projects I do. I am particularly interested in pursuing a career in data science; my current research interests remain very open. I find myself fascinated with sociological and consumer data, but also am curious about neurological (imaging) data. 
+
+I am an active swimmer, yogi, ex-triathlete, maker and consumer of food. 

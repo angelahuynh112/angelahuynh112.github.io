@@ -1,5 +1,37 @@
 ---
 title: "Angela Huynh"
 ---
+<style>
+.column-left{
+  float: left;
+  width: 30%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 60%;
+  text-align: left;
+}
+</style>
 
-Hi!
+<br/><br/>
+<div class="column-left">
+<br/><br/><br/>
+![](profile.jpg)
+</div>
+
+<div class="column-right">
+<h3>About Me:</h3>
+
+<p>Like many statistics students, I'm a data junkie. In my free time I play around in R, especially with Shiny and ggplot2 (see [Projects](projects.html)). I am especially interested in geographical representations of data and data related to politics or policy.</p>
+<p>I graduated from UC Santa Barbara with a B.S. in Statistical Science and a B.A. in Sociology. I am currently a masters student in the Biostatistics Department at the <b>Vanderbilt University School of Medicine</b> in Nashville, TN.</p>
+I have research experience with confidential, real-world health data, with current research interests in:
+<ul>
+<li>psychology
+<li>sociology
+<li>social media
+<li>consumer/marketing insights
+</ul>
+
+I hope to combine my sociological imagination as well as my statistical skills to make an impact through the projects I do. Some of my extracurricular interests include yoga, swimming, eating & making food, and running (sometimes). Please don't hesistate to [email me](mailto:angela.n.huynh@vanderbilt.edu) or find me on social media!
+</div>
