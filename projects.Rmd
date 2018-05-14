@@ -1,5 +1,8 @@
 ---
 title: "Projects"
+output:
+  html_document:
+    theme: flatly
 ---
 
 Here are some things I've worked on!
