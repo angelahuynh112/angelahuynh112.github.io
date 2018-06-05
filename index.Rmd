@@ -21,7 +21,7 @@ output:
 <div class="column-left">
 <br/><br/><br/>
 ![](profile.jpg)
-[CV/Resume](https://drive.google.com/file/d/1ewSdXR3VidScVfsv9jllCM2WCXiCSr5u/view?usp=sharing)
+[CV/Resume](https://drive.google.com/file/d/1gV5cx0qGjjYlWruJNQI_oW50gw6u8hys/view?usp=sharing)
 </div>
 
 <div class="column-right">
